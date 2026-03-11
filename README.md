@@ -14,7 +14,7 @@ The divide and conquer method of sorting an array involves selecting a pivoting 
 **Input:** `[64, 34, 25, 12, 22, 11, 90]`  
 **Output:** `[11, 12, 22, 25, 34, 64, 90]`
 
-## ⚙️ Algorithm Analysis
+## Algorithm Analysis
 
 ### Time Complexity
 - **Best Case:** O(n log n) - Balanced partitions
