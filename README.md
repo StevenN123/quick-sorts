@@ -25,10 +25,10 @@ The divide and conquer method of sorting an array involves selecting a pivoting 
 - **Auxiliary Space:** O(log n) for recursion stack (average case)
 
 ### Properties
-- ✅ **In-place sorting** - Sorts within original array
-- ❌ **Unstable** - Equal elements may be reordered
-- ✅ **Excellent cache locality** - Works well with hardware caches
-- ✅ **Fastest in practice** - For most datasets
+- **In-place sorting** - Sorts within original array
+- **Unstable** - Equal elements may be reordered
+- **Excellent cache locality** - Works well with hardware caches
+- **Fastest in practice** - For most datasets
 
 ## Complete Python Implementation
 
