@@ -1,4 +1,4 @@
-# quick-sorts
+# Quick-sorts
 A thorough execution of Quick Sort, a pivot-based partitioning in-place sorting algorithm. Several rounds of improvements, and complex visualizations are all part of this approach.
 
 ## Problem Description
