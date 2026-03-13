@@ -22,7 +22,7 @@ The divide and conquer method of sorting an array involves selecting a pivoting 
 - **Worst Case:** O(n²) - Unbalanced partitions (pivot always smallest/largest)
 
 ### Space Complexity
-- **Auxiliary Space:** O(log n) for recursion stack (average case)
+- **Space:** O(log n) for recursion stack (average case)
 
 ### Properties
 - **In-place sorting** - Sorts within original array
